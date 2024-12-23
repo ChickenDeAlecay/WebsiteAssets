@@ -153,11 +153,13 @@ nav ul li a:hover {
 
 .top-right {
     padding: 80px;
+    flex-direction: column;
 }
 
 .bottom-left {
     background-color: #004156;
     color: white;
+    flex-direction: column;
 }
 
 .bottom-right {
